@@ -1,0 +1,12 @@
+[
+    {
+        "tipo": "cachorro",
+        "nome": "pedro",
+        "idade": 23
+    },
+    {
+        "tipo": "papagaio",
+        "nome": "lucas",
+        "idade": 2
+    }
+]
